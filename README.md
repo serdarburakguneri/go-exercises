@@ -7,4 +7,6 @@ This is the repo where I play with Go language.
 
 3 - follow-the-white-rabbit (loops, types and arrays)
 
+4 - bubble-sort (loops and arrays)
+
 
