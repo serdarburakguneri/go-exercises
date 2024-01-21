@@ -1,6 +1,6 @@
 # bubble-sort
 
-Here is a bubble sort algorithm implementation in Go.
+A bubble sort algorithm implementation in Go.
 
 Running 2 for loops, the algorithm compares each element of the array 
 with the next one and swaps them if the next one is smaller.

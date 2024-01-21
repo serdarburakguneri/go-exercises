@@ -1,9 +1,9 @@
 # bubble-sort
 
-A selection sort algorithm implementation in Go.
+An insertion sort algorithm implementation in Go.
 
-Within the second loop, the algorithm finds the index of the min element and swaps if it's smaller
-than the current element in the first loop.
+The goal is the move larger elements to the right in every iteration so that 
+the element at current index can be in correct order.
 
 Here we can see the shape of the collection in each step of the algorithm:
 
@@ -21,6 +21,7 @@ Here we can see the shape of the collection in each step of the algorithm:
 [1 3 5 6 22 44 55 99]
 
 [1 3 5 6 22 44 55 99]
+
 
 ## How to run
 

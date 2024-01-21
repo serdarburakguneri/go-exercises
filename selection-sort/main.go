@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func selectionSort(collection []int) {
+	fmt.Println("sorting started")
 	length := len(collection)
 	for i := 0; i < length-1; i++ {
 		index := i
@@ -16,7 +17,7 @@ func selectionSort(collection []int) {
 		collection[index] = tmp
 		fmt.Println(collection)
 	}
-
+	fmt.Println("sorting ended")
 }
 
 func main() {
