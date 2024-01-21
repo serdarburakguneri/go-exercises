@@ -9,4 +9,6 @@ This is the repo where I play with Go language.
 
 4 - bubble-sort (loops and arrays)
 
+5 - selection-sort (loops and arrays)
+
 
