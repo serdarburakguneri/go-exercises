@@ -1,4 +1,5 @@
 # my-golang-journey
+
 This is the repo where I play with Go language.
 
 1 - [mandelbrot](mandelbrot) (loops, functions, constants and files)
@@ -12,5 +13,7 @@ This is the repo where I play with Go language.
 5 - [selection-sort](selection-sort) (loops and arrays)
 
 6 - [insertion-sort](insertion-sort) (loops and arrays)
+
+6 - [rest-api-with-gorilla](rest-api-with-gorilla) (HTTP, REST, DTO objects, structured project with packages )
 
 
