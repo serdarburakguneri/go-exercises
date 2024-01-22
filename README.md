@@ -14,6 +14,9 @@ This is the repo where I play with Go language.
 
 6 - [insertion-sort](insertion-sort) (loops and arrays)
 
-6 - [rest-api-with-gorilla](rest-api-with-gorilla) (HTTP, REST, DTO objects, structured project with packages )
+7 - [rest-api-with-gorilla](rest-api-with-gorilla) (HTTP, REST, DTO objects, structured project with packages )
+
+8 - [dependency-injection](dependency-injection) (constructor injection, interfaces)
+
 
 
