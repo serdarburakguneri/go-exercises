@@ -20,5 +20,6 @@ This is the repo where I play with Go language.
 
 9 - [dependency-injection-with-wire](dependency-injection-with-wire) (google wire library, constructor injection, interfaces)
 
+10 - [simple-postgres-client](simple-postgres-client) (pg library, repository pattern, basic postgres usage)
 
 
