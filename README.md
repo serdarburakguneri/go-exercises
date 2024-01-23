@@ -18,5 +18,7 @@ This is the repo where I play with Go language.
 
 8 - [dependency-injection](dependency-injection) (constructor injection, interfaces)
 
+9 - [dependency-injection-with-wire](dependency-injection-with-wire) (google wire library, constructor injection, interfaces)
+
 
 
