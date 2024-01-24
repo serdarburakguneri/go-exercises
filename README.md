@@ -22,4 +22,6 @@ This is the repo where I play with Go language.
 
 10 - [simple-postgres-client](simple-postgres-client) (pg library, repository pattern, basic postgres usage)
 
+11 - [generics](generics) (generics and predicates)
+
 

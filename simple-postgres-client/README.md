@@ -5,7 +5,7 @@ The purpose of this exercise is to implement repository pattern and test it with
 ## How to run
 
 Start a docker instance of your favourite Postgres version.
-Modify the connection string in PostgresClient.OpenConnection function (host, port, username, password and dbname)
+Modify the connection string in PostgresClient.OpenConnection function (host, port, username, password and dbname:)
 with what you have running.
 
 In the main folder "simple-postgres-client"
